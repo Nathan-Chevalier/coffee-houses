@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 40%;
+}
+
+.shop {
+  border: 1px dotted black;
+  color: white;
+  background-color: tan;
+}
